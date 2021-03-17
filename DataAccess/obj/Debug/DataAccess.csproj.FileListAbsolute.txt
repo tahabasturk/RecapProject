@@ -1,0 +1,7 @@
+C:\Users\taha\Desktop\RecapProject\RecapProject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\taha\Desktop\RecapProject\RecapProject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\taha\Desktop\RecapProject\RecapProject\DataAccess\bin\Debug\Entities.dll
+C:\Users\taha\Desktop\RecapProject\RecapProject\DataAccess\bin\Debug\Entities.pdb
+C:\Users\taha\Desktop\RecapProject\RecapProject\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\taha\Desktop\RecapProject\RecapProject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\taha\Desktop\RecapProject\RecapProject\DataAccess\obj\Debug\DataAccess.pdb

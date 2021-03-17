@@ -1,0 +1,5 @@
+C:\Users\taha\Desktop\RecapProject\RecapProject\Entities\bin\Debug\Entities.dll
+C:\Users\taha\Desktop\RecapProject\RecapProject\Entities\bin\Debug\Entities.pdb
+C:\Users\taha\Desktop\RecapProject\RecapProject\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\taha\Desktop\RecapProject\RecapProject\Entities\obj\Debug\Entities.dll
+C:\Users\taha\Desktop\RecapProject\RecapProject\Entities\obj\Debug\Entities.pdb
